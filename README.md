@@ -1,4 +1,4 @@
-<h1 align="center">cout << "Hola Mundo" <<endl; </h1>
+<h1 align="center">cout<<"Hola Mundo"<<endl; </h1>
 <h3 align="center">Quiero convertirme en el mejor programador del mundo para que mi jefecita se sienta orgullosa de mí.</h3>
 
 - CRUD para administrar clínica dental [DentiWare](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
