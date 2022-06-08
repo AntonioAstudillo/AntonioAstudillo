@@ -2,7 +2,7 @@
 
 ![developer](https://user-images.githubusercontent.com/58786364/170402930-f4618960-4db2-43f3-8291-ff50427ac330.gif)
 
-- CRUD para administrar clínica dental [DentiWare](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
+- CRUD para administrar clínica dental [Dentiware](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
 - CRUD para administrar clínica dental versión web www.dentiware.com
 
 
