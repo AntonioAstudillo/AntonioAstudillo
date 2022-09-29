@@ -4,7 +4,7 @@
 
 - CRUD para administrar clínica dental [Dentiware](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
 - CRUD para administrar clínica dental versión web www.dentiware.com
-- Catálogo de Autopartes https://www.hoautopartes.mx/
+- Catálogo de Autopartes https://www.antonioastudillo.com/
 
 
 <h3 align="left">Herramientas:</h3>
