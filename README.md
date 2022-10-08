@@ -3,8 +3,8 @@
 ![developer](https://user-images.githubusercontent.com/58786364/170402930-f4618960-4db2-43f3-8291-ff50427ac330.gif)
 
 - CRUD para administrar clínica dental [Dentiware](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
-- Proyecto  https://www.ajjacacsbro.online/
-- CRUD para administrar clínica dental versión web www.dentiware.com
+- Proyecto  https://www.ajjacacsbro.online/    credenciales user -> Admin8!   password -> A!dm|n!?t$*_r4d0R.-?
+- CRUD para administrar clínica dental versión web www.dentiware.com   credenciales user ->  sabroso88   password -> acapulcoop7-
 
 
 
