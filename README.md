@@ -9,6 +9,9 @@
   
 - CRUD para administrar clínica dental versión web www.dentiware.com   
    credenciales user ->  sabroso88   password -> acapulcoop7-
+   
+   Omdala
+  https://loquacious-elf-49fca9.netlify.app/views/home.html
 
 
 
