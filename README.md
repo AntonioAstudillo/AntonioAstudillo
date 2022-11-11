@@ -4,11 +4,11 @@
 
 - CRUD para administrar clínica dental [Dentiware](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
 - Proyecto  https://www.ajjacacsbro.online/    
-  credenciales user -> Admin8!   password -> A!dm|n!?t$*_r4d0R.-?
+   USER -> Admin8!   PASSWORD -> A!dm|n!?t$*_r4d0R.-?
   
   
 - CRUD para administrar clínica dental versión web www.dentiware.com   
-   credenciales user ->  sabroso88   password -> acapulcoop7-
+   USER ->  sabroso88   PASSWORD -> acapulcoop7-
    
    Omdala
   https://loquacious-elf-49fca9.netlify.app/views/home.html
