@@ -10,6 +10,8 @@
 - CRUD para administrar clínica dental versión web www.dentiware.com   
    USER ->  sabroso88   PASSWORD -> acapulcoop7-
    
+- Tienda virtual   https://www.antonioastudillo.com/
+   
    Omdala
   https://loquacious-elf-49fca9.netlify.app/views/home.html
 
