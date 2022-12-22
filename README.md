@@ -2,18 +2,7 @@
 
 ![developer](https://user-images.githubusercontent.com/58786364/170402930-f4618960-4db2-43f3-8291-ff50427ac330.gif)
 
-- CRUD para administrar clínica dental [Dentiware](https://www.youtube.com/watch?v=xFOCY21EW1g&t=1s)
-- Proyecto  https://www.ajjacacsbro.online/    
-   USER -> Admin8!   PASSWORD -> A!dm|n!?t$*_r4d0R.-?
-  
-  
-- CRUD para administrar clínica dental versión web www.dentiware.com   
-   USER ->  sabroso88   PASSWORD -> acapulcoop7-
-   
-- Tienda virtual   https://www.antonioastudillo.com/
-   
-   Omdala
-  https://loquacious-elf-49fca9.netlify.app/views/home.html
+
 
 
 
