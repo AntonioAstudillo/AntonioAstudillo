@@ -2,6 +2,15 @@
 
 ![developer](https://user-images.githubusercontent.com/58786364/170402930-f4618960-4db2-43f3-8291-ff50427ac330.gif)
 
+-- Tienda virtual 
+https://www.antonioastudillo.com/ 
+
+-- Sistema para clínica dental 
+https://www.dentiware.com/ 
+
+
+-- Catalogo de Autopartes
+https://www.ajjacacsbro.online/
 
 
 
