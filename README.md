@@ -12,7 +12,7 @@ https://www.ajjacacsbro.online/
 
 -- Tienda virtual  ---> https://www.antonioastudillo.com/
 
-datos de modulo administradores (user: antonio123@hotmail.com) (password: admin123*)
+datos de modulo administradores de tienda virtual (user: antonio123@hotmail.com) (password: admin123*)
 
 
 
