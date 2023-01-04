@@ -10,9 +10,11 @@ https://www.dentiware.com/
 -- Catalogo de Autopartes
 https://www.ajjacacsbro.online/
 
--- Tienda virtual  datos de modulo administradores (user: antonio123@hotmail.com) (password: admin123*)
+-- Tienda virtual  ---> https://www.antonioastudillo.com/
 
-https://www.antonioastudillo.com/
+datos de modulo administradores (user: antonio123@hotmail.com) (password: admin123*)
+
+
 
 
 
