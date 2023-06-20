@@ -1,10 +1,9 @@
 
 ![developer](https://user-images.githubusercontent.com/58786364/170402930-f4618960-4db2-43f3-8291-ff50427ac330.gif)
 
+Sistema clinica dental versión Laravel 7 
+[www.dentiwe](https://www.dentiware.com/)
 
--- Sistema para clínica dental versión Laravel 7
-<p align="left"> <a href="https://www.dentiware.com/" target="_blank">
-<a href="[https://www.w3schools.com/css]" target="_blank"> >
 
 
 -- Catalogo de Autopartes
