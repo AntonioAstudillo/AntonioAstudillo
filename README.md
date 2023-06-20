@@ -3,7 +3,7 @@
 
 
 -- Sistema para clínica dental versión Laravel 7
-https://www.dentiware.com/   user: antonio@gmail.com   password: admin123
+<a href="[https://www.w3schools.com/css]" target="_blank">
 
 
 -- Catalogo de Autopartes
