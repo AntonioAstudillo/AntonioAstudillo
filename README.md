@@ -6,19 +6,11 @@ Sistema clinica dental versión Laravel 7
 
 
 Catálogo de autopartes Version Laravel 10
-[Autopartes](https://www.ajjacacsbro.online/))
+[Autopartes](https://www.ajjacacsbro.online/)
 
-
-
--- Catalogo de Autopartes
-https://www.ajjacacsbro.online/
-
--- Tienda virtual  ---> https://www.antonioastudillo.com/
-
-datos de modulo administradores de tienda virtual (user: antonio123@hotmail.com) (password: admin123*)
-
-
-
+Tienda virtual desarrollada en PHP
+[Tienda Virtual](https://www.antonioastudillo.com/)
+(user: antonio123@hotmail.com) (password: admin123*)
 
 
 
