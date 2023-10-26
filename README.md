@@ -6,7 +6,7 @@ Sistema clínica dental versión Laravel 7
 
 
 Catálogo de autopartes versión Laravel 10
-[Autopartes](https://www.ajjacacsbro.online/)
+[Autopartes](https://www.ajjacacsbro.tech/)
 
 Tienda virtual desarrollada en PHP
 [Tienda Virtual](https://www.antonioastudillo.com/)
