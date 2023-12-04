@@ -2,7 +2,7 @@
 ![developer](https://user-images.githubusercontent.com/58786364/170402930-f4618960-4db2-43f3-8291-ff50427ac330.gif)
 
 Sistema clínica dental versión Laravel 7 
-[Dentiware](https://www.dentiware.com/)
+[Dentiware](https://www.dentiware.cloud/)
 
 
 Catálogo de autopartes versión Laravel 10
