@@ -6,6 +6,9 @@ Tienda virtual desarrollada en PHP
 [Tienda Virtual](https://www.antonioastudillo.com/)
 (user: antonio123@hotmail.com) (password: admin123*)
 
+Repositorio alternativo
+https://github.com/antonioAstudillo123
+
 
 
 <h3 align="left">Herramientas:</h3>
