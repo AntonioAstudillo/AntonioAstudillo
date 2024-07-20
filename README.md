@@ -8,7 +8,7 @@ Tienda virtual desarrollada en PHP
 
 
 Sistema básico de Tickets 
-([https://www.antonioastudillo.com/](https://ajjacacsbro.tech/))
+(https://ajjacacsbro.tech/)
 (user: antonio@gmail.com) (password: password)
 
 Repositorio alternativo
